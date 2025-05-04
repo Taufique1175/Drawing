@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"pages\\\\index.tsx -> ../components/DrawingCanvas\":{\"id\":\"pages\\\\index.tsx -> ../components/DrawingCanvas\",\"files\":[\"static/chunks/components_DrawingCanvas_tsx.js\"]}}"
